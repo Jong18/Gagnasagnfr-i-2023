@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def make_list(length: int):
+#     fixed_list = [] * length
+
+
+# a_lis = ['V', 'a', 't', 's', 'r', 'x']
+
+# a_lis.append('w')
+# a_lis.insert(3, 'h')
+# a_lis[0] = 'f'
+# a_lis.remove(a_lis[1])
+# print(a_lis)
+
+
