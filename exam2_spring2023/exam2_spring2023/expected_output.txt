@@ -1,0 +1,48 @@
+testing sll recursion
+testing count_evens
+5 4 4 9 7 5 10 16
+4
+2 1 4 3 5 10 7 11
+3
+7 6 3 1 2 0 2 1
+4
+testing dll
+testing move_from_index_to_front
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index: 4
+4 9 5 0 1 6 2 7
+7 2 6 1 0 5 9 4
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index: 7
+7 9 5 0 1 4 6 2
+2 6 4 1 0 5 9 7
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index: 0
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index: 1
+5 9 0 1 4 6 2 7
+7 2 6 4 1 0 9 5
+testing remove_in_range
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index_from: 0
+index_to: 2
+1 4 6 2 7
+7 2 6 4 1
+9 5 0 1 4 6 2 7
+7 2 6 4 1 0 5 9
+index_from: 3
+index_to: 7
+9 5 0
+0 5 9
+testing general programming
+testing combine_sll_dll_into_list
+sll: 5 4 4 9 7 5 10 16
+dll: 9 5 0 1 4 6 2 7
+[5, 4, 4, 9, 7, 5, 10, 16, 9, 5, 0, 1, 4, 6, 2, 7]
